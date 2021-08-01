@@ -1,0 +1,49 @@
+- name: GitHub
+  url: http://github.com/Flavius-The-Person
+  class: icon-github
+  title: View my Github!
+
+#- name: YouTube
+#  url: http://www.youtube.com/FlavCreations
+#  class: icon-youtube
+#  title: "Check out my youtube!"
+
+- name: Twitter
+  url: http://twitter.com/FlavCreations
+  class: icon-twitter
+  title: "Follow me on twitter!"
+
+- name: Twitch
+  url: http://twitch.tv/FlavCreations
+  class: icon-twitch
+  title: "Sometimes I stream on Twitch!"
+  
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

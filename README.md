@@ -1,35 +1,66 @@
-# Landing Page Jekyll theme
+## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+# Newsletter: Stay in Touch for Future Updates
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
 
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
----
-The description of this service
-```
+[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
 
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
 
-===
+## A Responsive Jekyll Theme: *Feeling Responsive*
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
 
-## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
 
-## Version
-1.0.1
+And what license is *Feeling Responsive* released under? [This one][2].
+
+
+
+## Why use this theme?
+
+Feeling Responsive is heavily customizable.
+
+1. Language-Support :)
+2. Optimized for speed and it's responsive.
+3. Built on Foundation Framework.
+4. Six different Headers.
+5. Customizable navigation, footer,...
+
+**[More ›][3]**
+
+
+
+## Changelog
+
+*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
+
+**[Read Changelog ›][6]**
+
+
+
+## Video Tutorial
+
+Click the image to [watch the YouTube-Video-Tutorial][4].
+
+[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+
+
+
+
+
+
+
+
+ [1]: http://phlow.github.io/feeling-responsive/documentation/
+ [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
+ [3]: http://phlow.github.io/feeling-responsive/info/
+ [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
+ [5]: https://github.com/TWiStErRob
+ [6]: https://phlow.github.io/feeling-responsive/changelog/
+ [7]: http://phlow.github.io/feeling-responsive/
+ [8]: http://phlow.github.io/simplicity/
+ [9]: #
+ [10]: #
