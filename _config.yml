@@ -17,7 +17,7 @@ slogan: 'Create Ad Infinitum'
 description: '»FlavCreations is an Indie Developer creating games and various other apps.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with &hearts; by Flavius with <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> by <a href="http://phlow.de/">Phlow</a> using <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -114,7 +114,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Flavius    # Default author for pages
   -
     scope:
       path: ''
@@ -123,7 +123,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Flavius     # Default author for posts
 
 
 
